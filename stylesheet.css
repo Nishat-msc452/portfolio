@@ -1,5 +1,5 @@
 root {
---background:#0f0e21
+--base:#0f0e21
 --primary: #664478;
 --secondary:#8f6580
 --work:#ecebf7
@@ -7,4 +7,7 @@ root {
 }
 container {
 -- background (--work); 
+}
+intro {
+--background:(--primary);
 }
