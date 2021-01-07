@@ -1,8 +1,10 @@
 root {
-color
-Background:#0f0e21
-Primary: #664478;
-Secondary:#8f6580
-Work:#ecebf7
-Contact: #5a586e
+--background:#0f0e21
+--primary: #664478;
+--secondary:#8f6580
+--work:#ecebf7
+--contact: #5a586e
+}
+container {
+-- background (--work); 
 }
